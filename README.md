@@ -1,3 +1,3 @@
-# https://github.com/waleedeuu/indriver.customlinks.appsflyer.com/tree/main
+# indriver.customlinks.appsflyer.com
 Subdomain takeover
 by waleedeuu
